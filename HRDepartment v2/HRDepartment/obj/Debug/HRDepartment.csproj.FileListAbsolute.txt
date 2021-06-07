@@ -1,0 +1,90 @@
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\bin\Debug\HRDepartmentDatabase.mdf
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\bin\Debug\HRDepartmentDatabase_log.ldf
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe.config
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\bin\Debug\HRDepartment.pdb
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form1.resources
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DepartmentsEditor.resources
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.exe
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.pdb
+C:\Users\korovkina\source\repos\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DivisionsEditor.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartmentDatabase.mdf
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartmentDatabase_log.ldf
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe.config
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.pdb
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form1.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DepartmentsEditor.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DivisionsEditor.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.exe
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.pdb
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_Login.resources
+C:\Users\korovkina\Desktop\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_UsersEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe.config
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\bin\Debug\HRDepartment.pdb
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DepartmentsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_DivisionsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_Login.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_UsersEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.exe
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.pdb
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_Main.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_PersonsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_PostsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_EmployeesEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_PersonDocumentsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.ResolveComReference.cache
+D:\downloads\work\Отдел кадров\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form_UserRolesEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\bin\Debug\HRDepartment.exe.config
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\bin\Debug\HRDepartment.exe
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\bin\Debug\HRDepartment.pdb
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.csproj.ResolveComReference.cache
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_EmployeesEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_Main.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_DepartmentsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_DivisionsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_Login.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_PersonDocumentsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_PersonsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_PostsEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_UserRolesEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Form_UsersEditor.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.exe
+D:\downloads\work\Отдел кадров\HRDepartment v1\HRDepartment\obj\Debug\HRDepartment.pdb
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\bin\Debug\HRDepartment.exe.config
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\bin\Debug\HRDepartment.exe
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\bin\Debug\HRDepartment.pdb
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.csproj.ResolveComReference.cache
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_EmployeesEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_Main.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_DepartmentsEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_DivisionsEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_Login.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_PersonDocumentsEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_PersonsEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_PostsEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_UserRolesEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Form_UsersEditor.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.exe
+C:\Users\Power\Desktop\Диплом\HRDepartment v2\HRDepartment\obj\Debug\HRDepartment.pdb
